@@ -1,0 +1,45 @@
+11
+s
+#9900FF
+Bell MT
+20
+u
+#9900FF
+Bell MT
+20
+p
+#9900FF
+Bell MT
+20
+ 
+#9900FF
+Arial
+20
+s
+#333333
+Arial
+20
+u
+#333333
+Arial
+20
+p
+#333333
+Arial
+20
+ 
+#333333
+Arial
+20
+s
+#0000FF
+Eras Medium ITC
+20
+u
+#0000FF
+Eras Medium ITC
+20
+p
+#0000FF
+Eras Medium ITC
+20

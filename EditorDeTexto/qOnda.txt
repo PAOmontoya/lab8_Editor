@@ -1,0 +1,61 @@
+15
+q
+#FF0000
+Arial Black
+20
+ 
+#FF0000
+Arial Black
+20
+o
+#FF0000
+Arial Black
+20
+n
+#FF0000
+Arial Black
+20
+d
+#FF0000
+Bell MT
+20
+a
+#FF0000
+Bell MT
+20
+ 
+#333333
+Bell MT
+20
+b
+#006666
+Bell MT
+20
+r
+#006666
+Bell MT
+20
+o
+#006666
+Bell MT
+20
+s
+#006666
+Bell MT
+20
+k
+#006666
+Bell MT
+20
+i
+#006666
+Bell MT
+20
+o
+#006666
+Bell MT
+20
+s
+#006666
+Bell MT
+20
